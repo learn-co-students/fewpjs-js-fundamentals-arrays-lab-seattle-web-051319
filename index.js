@@ -14,4 +14,4 @@ removeLast.pop();
 removeLast;
 
 removeFirst.shift();
-removeFirst
+removeFirst;
